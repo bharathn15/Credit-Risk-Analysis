@@ -30,4 +30,4 @@ This project builds a **credit risk model** to classify loan applications as **a
 - `README.md` → Project documentation.
 
 ## How to Run
-1. Clone the repository:
+1. Clone the repository: git@github.com:bharathn15/Credit-Risk-Analysis.git and then RUN the .ipynb file in Google Colab

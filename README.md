@@ -21,7 +21,7 @@ This project builds a **credit risk model** to classify loan applications as **a
 
 ## Key Findings
 - **Loan Amount (`AMT_CREDIT`)** and **Max Overdue Days (`CREDIT_DAY_OVERDUE`)** are key indicators.
-- **XGBoost performed best** with **ROC-AUC ~0.75+**.
+- **XGBoost performed best** with **ROC-AUC ~0.75+**.       
 - **SMOTE improved recall** for high-risk applicants.
 
 ## Files
